@@ -46,7 +46,7 @@ ENTRYPOINT ["java", "org.springframework.boot.loader.JarLauncher"]
 
 ## Building Image
 
-## Build in Local Environment
+### Build in Local Environment
 
 From project root directory, execute following command
 
